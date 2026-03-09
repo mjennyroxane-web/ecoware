@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Climate Change 101: How It Works",
+    "description": "A clear, visual explainer on what climate change is, why it's happening, and what we can do about it.",
+    "category": "CLIMATE",
+    "icon": "🌡️",
+    "duration": "5:12",
+    "channel": "National Geographic",
+    "url": "https://www.youtube.com/watch?v=dcBXmj1nMTQ"
+  },
+  {
+    "id": 2,
+    "title": "The Amazon is on Fire",
+    "description": "Explores the devastating fires in the Amazon rainforest and their global consequences for biodiversity and climate.",
+    "category": "FORESTS",
+    "icon": "🔥",
+    "duration": "8:45",
+    "channel": "Vox",
+    "url": "https://www.youtube.com/watch?v=LGGnMwcGAH8"
+  },
+  {
+    "id": 3,
+    "title": "The Ocean Cleanup Project",
+    "description": "Learn how Boyan Slat and his team are working to remove plastic from the Great Pacific Garbage Patch.",
+    "category": "OCEANS",
+    "icon": "🌊",
+    "duration": "6:30",
+    "channel": "The Ocean Cleanup",
+    "url": "https://www.youtube.com/watch?v=ROW9F-c0kIQ"
+  },
+  {
+    "id": 4,
+    "title": "Biodiversity: Why Every Species Matters",
+    "description": "A deep dive into why biodiversity is crucial for ecosystem health, food security, and human wellbeing.",
+    "category": "BIODIVERSITY",
+    "icon": "🦋",
+    "duration": "7:18",
+    "channel": "TED-Ed",
+    "url": "https://www.youtube.com/watch?v=GK_vRtHJZu4"
+  }
+]

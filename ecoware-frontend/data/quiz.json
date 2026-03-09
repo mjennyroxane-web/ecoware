@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "category": "Climate",
+    "question": "By how much has global average temperature risen since pre-industrial times?",
+    "options": {
+      "A": "0.5°C",
+      "B": "1.1°C",
+      "C": "2.0°C",
+      "D": "3.5°C"
+    },
+    "correctAnswer": "B",
+    "explanation": "Global temperatures have risen by approximately 1.1°C since pre-industrial times."
+  },
+  {
+    "id": 2,
+    "category": "Oceans",
+    "question": "How many tonnes of plastic enter the oceans every year?",
+    "options": {
+      "A": "2 million",
+      "B": "4 million",
+      "C": "8 million",
+      "D": "15 million"
+    },
+    "correctAnswer": "C",
+    "explanation": "Over 8 million tonnes of plastic enter the world's oceans annually."
+  },
+  {
+    "id": 3,
+    "category": "Forests",
+    "question": "How many hectares of forest does the world lose each year?",
+    "options": {
+      "A": "1 million",
+      "B": "5 million",
+      "C": "10 million",
+      "D": "20 million"
+    },
+    "correctAnswer": "C",
+    "explanation": "The world loses approximately 10 million hectares of forest every year."
+  },
+  {
+    "id": 4,
+    "category": "Health",
+    "question": "How many premature deaths does air pollution cause annually?",
+    "options": {
+      "A": "1 million",
+      "B": "3 million",
+      "C": "7 million",
+      "D": "10 million"
+    },
+    "correctAnswer": "C",
+    "explanation": "Air pollution causes approximately 7 million premature deaths each year worldwide."
+  },
+  {
+    "id": 5,
+    "category": "Water",
+    "question": "What percentage of the world's freshwater does agriculture use?",
+    "options": {
+      "A": "40%",
+      "B": "55%",
+      "C": "70%",
+      "D": "85%"
+    },
+    "correctAnswer": "C",
+    "explanation": "Agriculture accounts for approximately 70% of global freshwater withdrawals."
+  },
+  {
+    "id": 6,
+    "category": "Biodiversity",
+    "question": "Approximately how many species face extinction today?",
+    "options": {
+      "A": "100,000",
+      "B": "500,000",
+      "C": "1 million",
+      "D": "2 million"
+    },
+    "correctAnswer": "C",
+    "explanation": "Around 1 million plant and animal species currently face extinction, according to the IPBES report."
+  },
+  {
+    "id": 7,
+    "category": "Climate",
+    "question": "Which gas is the primary driver of the greenhouse effect?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Carbon Dioxide",
+      "C": "Nitrogen",
+      "D": "Argon"
+    },
+    "correctAnswer": "B",
+    "explanation": "Carbon Dioxide (CO₂) is the primary greenhouse gas responsible for human-caused climate change."
+  },
+  {
+    "id": 8,
+    "category": "Oceans",
+    "question": "The Great Pacific Garbage Patch is approximately how large?",
+    "options": {
+      "A": "Size of Texas",
+      "B": "Size of France",
+      "C": "Three times the size of France",
+      "D": "Size of Australia"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Great Pacific Garbage Patch spans approximately 1.6 million square kilometers — three times the size of France."
+  },
+  {
+    "id": 9,
+    "category": "Forests",
+    "question": "What fraction of terrestrial species live in forests?",
+    "options": {
+      "A": "More than 30%",
+      "B": "More than 50%",
+      "C": "More than 80%",
+      "D": "About 20%"
+    },
+    "correctAnswer": "C",
+    "explanation": "Over 80% of all terrestrial species — animals, plants and insects — live in forests."
+  },
+  {
+    "id": 10,
+    "category": "Biodiversity",
+    "question": "By what percentage have global wildlife populations declined since 1970?",
+    "options": {
+      "A": "20%",
+      "B": "40%",
+      "C": "60%",
+      "D": "80%"
+    },
+    "correctAnswer": "C",
+    "explanation": "According to WWF's Living Planet Report, global wildlife populations have declined by 60% since 1970."
+  },
+  {
+    "id": 11,
+    "category": "Water",
+    "question": "How many people currently lack access to safe drinking water?",
+    "options": {
+      "A": "500 million",
+      "B": "1 billion",
+      "C": "2 billion",
+      "D": "3 billion"
+    },
+    "correctAnswer": "C",
+    "explanation": "Around 2 billion people lack access to safe drinking water at home, according to WHO/UNICEF."
+  },
+  {
+    "id": 12,
+    "category": "Climate",
+    "question": "What percentage of global CO₂ emissions does deforestation account for?",
+    "options": {
+      "A": "2%",
+      "B": "5%",
+      "C": "10%",
+      "D": "20%"
+    },
+    "correctAnswer": "C",
+    "explanation": "Deforestation is responsible for up to 10% of global carbon dioxide emissions."
+  },
+  {
+    "id": 13,
+    "category": "Health",
+    "question": "What percentage of the world's population breathes polluted air?",
+    "options": {
+      "A": "50%",
+      "B": "75%",
+      "C": "90%",
+      "D": "99%"
+    },
+    "correctAnswer": "D",
+    "explanation": "WHO data shows that 99% of the global population breathes air that exceeds WHO guideline limits."
+  },
+  {
+    "id": 14,
+    "category": "Oceans",
+    "question": "Which is the main source of ocean plastic pollution?",
+    "options": {
+      "A": "Ships and fishing vessels",
+      "B": "Land-based sources",
+      "C": "Ocean drilling platforms",
+      "D": "Naval activities"
+    },
+    "correctAnswer": "B",
+    "explanation": "About 80% of ocean plastic pollution comes from land-based sources like rivers, coastal cities and improper waste disposal."
+  },
+  {
+    "id": 15,
+    "category": "Climate",
+    "question": "At what temperature increase do scientists warn of catastrophic climate tipping points?",
+    "options": {
+      "A": "1.0°C",
+      "B": "1.5°C",
+      "C": "2.5°C",
+      "D": "3.0°C"
+    },
+    "correctAnswer": "B",
+    "explanation": "Scientists and the Paris Agreement warn that exceeding 1.5°C of warming risks triggering catastrophic climate tipping points."
+  }
+]

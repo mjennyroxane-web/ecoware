@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Climate Change",
+    "category": "Environment",
+    "severity": "CRITICAL",
+    "icon": "🌡️",
+    "shortDesc": "Global temperatures have risen by 1.1°C since pre-industrial times...",
+    "description": "Climate change refers to long-term shifts in global temperatures and weather patterns. Since the 1800s, human activities, especially burning fossil fuels, have been the main driver of climate change. Global average temperatures have risen by about 1.1°C above pre-industrial levels, causing more frequent extreme weather events, sea level rise, and threats to biodiversity.",
+    "facts": [
+      "Global temperatures have risen by 1.1°C since pre-industrial times",
+      "The last decade (2011–2020) was the warmest on record",
+      "Arctic warming is happening twice as fast as the global average",
+      "Sea levels are rising at 3.3mm per year on average"
+    ],
+    "actions": [
+      "Reduce your carbon footprint by using public transport or cycling",
+      "Switch to renewable energy sources at home",
+      "Eat less meat and dairy products",
+      "Support and vote for climate-conscious policies"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Deforestation",
+    "category": "Biodiversity",
+    "severity": "HIGH",
+    "icon": "🌲",
+    "shortDesc": "The world loses 10 million hectares of forest per year...",
+    "description": "Deforestation is the large-scale removal of forests, primarily for agriculture, logging, and urban expansion. Forests are essential for absorbing CO₂, regulating the water cycle, and supporting biodiversity. The world is losing an estimated 10 million hectares of forest annually — an area larger than South Korea.",
+    "facts": [
+      "10 million hectares of forest are lost every year",
+      "The Amazon rainforest has lost about 17% of its cover in 50 years",
+      "Deforestation accounts for up to 10% of global carbon emissions",
+      "Over 80% of terrestrial species live in forests"
+    ],
+    "actions": [
+      "Choose FSC-certified wood and paper products",
+      "Reduce consumption of products linked to deforestation (palm oil, soy)",
+      "Support reforestation organizations",
+      "Advocate for stronger forest protection laws"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Ocean Pollution",
+    "category": "Marine",
+    "severity": "HIGH",
+    "icon": "🌊",
+    "shortDesc": "Over 8 million tonnes of plastic enter the oceans yearly...",
+    "description": "Ocean pollution encompasses plastic waste, chemical runoff, oil spills, and noise pollution that harm marine ecosystems. More than 8 million tonnes of plastic enter the oceans every year. Microplastics have been found in the deepest ocean trenches and even in the human bloodstream.",
+    "facts": [
+      "8 million tonnes of plastic enter oceans every year",
+      "Over 1 million seabirds and 100,000 marine mammals die from ocean pollution annually",
+      "Microplastics have been detected in human blood and breast milk",
+      "The Great Pacific Garbage Patch is three times the size of France"
+    ],
+    "actions": [
+      "Use reusable bags, bottles and containers",
+      "Participate in beach and river clean-up events",
+      "Avoid single-use plastics whenever possible",
+      "Support policies that reduce industrial ocean dumping"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Air Pollution",
+    "category": "Public Health",
+    "severity": "CRITICAL",
+    "icon": "💨",
+    "shortDesc": "Air pollution kills approximately 7 million people per year...",
+    "description": "Air pollution is contamination of the indoor or outdoor environment by any chemical, physical or biological agent that modifies the natural characteristics of the atmosphere. Around 99% of the global population breathes air that exceeds WHO guideline limits. Air pollution is the world's largest environmental health risk.",
+    "facts": [
+      "Air pollution causes 7 million premature deaths each year",
+      "99% of the world's population breathes polluted air",
+      "Household air pollution from cooking affects 2.4 billion people",
+      "Air pollution costs the global economy over $5 trillion annually"
+    ],
+    "actions": [
+      "Use public transport, walk or cycle when possible",
+      "Avoid burning waste, wood or charcoal indoors",
+      "Support clean air regulations in your region",
+      "Use energy-efficient appliances at home"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Biodiversity Loss",
+    "category": "Ecology",
+    "severity": "CRITICAL",
+    "icon": "🦋",
+    "shortDesc": "Species are disappearing 1,000 times faster than natural rates...",
+    "description": "Biodiversity loss refers to the decline in the variety of living species on Earth. Current extinction rates are 100–1,000 times higher than natural background rates. Scientists warn that we are experiencing the sixth mass extinction event, driven by habitat destruction, climate change, pollution and overexploitation.",
+    "facts": [
+      "1 million plant and animal species face extinction",
+      "60% of wildlife populations have been wiped out since 1970",
+      "Only 23% of Earth's land remains in a wild state",
+      "Pollinators support 75% of global food crop production"
+    ],
+    "actions": [
+      "Plant native species in your garden",
+      "Avoid pesticides and herbicides",
+      "Support wildlife conservation organizations",
+      "Buy sustainably sourced food products"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Water Scarcity",
+    "category": "Resources",
+    "severity": "HIGH",
+    "icon": "💧",
+    "shortDesc": "2 billion people lack access to safe drinking water...",
+    "description": "Water scarcity affects more than 40% of the global population and is projected to worsen with climate change. By 2025, two-thirds of the world could face water shortage conditions. Overuse in agriculture, industrial pollution and population growth are major drivers.",
+    "facts": [
+      "2 billion people lack safe drinking water at home",
+      "Agriculture uses 70% of the world's accessible freshwater",
+      "Water scarcity affects all continents",
+      "By 2050, up to 5.7 billion people could face water shortages"
+    ],
+    "actions": [
+      "Fix leaky faucets and reduce water waste at home",
+      "Collect and use rainwater for gardening",
+      "Choose water-efficient appliances",
+      "Support water conservation programs in your community"
+    ]
+  }
+]
